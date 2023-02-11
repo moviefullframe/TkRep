@@ -10,7 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            String D = "t"; 
+            String D = "t"; \
+
+            ljvhni
+                k
+                pkk[[[pklp[
+                    prop[KeyValuePair[kl]]]]]]
         }
     }
 }
